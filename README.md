@@ -1,8 +1,11 @@
-# React + Vite
+# Library System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React-based library system that allows users to manage a collection of books. Users can add books, update their availability status, remove books, and search for books by name or author.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add Books**: Users can add books with details such as title, author, and availability status.
+- **Update Availability Status**: Users can update whether a book is available or not.
+- **Remove Books**: Users can remove books from the library.
+- **Search Books**: Users can search for books by name or author.
+
